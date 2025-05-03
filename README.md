@@ -3,8 +3,7 @@ Olá mundo, sou o Lucas Santos ✌️
 
 <br>🛡️Sou estudante de área de segurança da informação, a cada dia me aprimorando nessa área.<br>
 💡 Focado em aprender e evoluir nas linguagens:<br>
-<br>🐍 python<br>
-
+<br>🐍 python
 <br><br>📚 Apaixonado por tecnologia, aprendendo um pouco a cada dia! 🚀<br>
 🎯 Formado em gestão de tecnologia da informação e atualmente cursando análise e desenvolvimento de sistemas.
 
