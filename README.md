@@ -4,7 +4,7 @@ Olá mundo, sou o Lucas Santos ✌️
 <br>🛡️Sou estudante de área de segurança da informação, a cada dia me aprimorando nessa área.<br>
 💡 Focado em aprender e evoluir nas linguagens:<br>
 <br>🐍 python<br>
-⚡rust
+
 <br><br>📚 Apaixonado por tecnologia, aprendendo um pouco a cada dia! 🚀<br>
 🎯 Formado em gestão de tecnologia da informação e atualmente cursando análise e desenvolvimento de sistemas.
 
@@ -15,7 +15,7 @@ Olá mundo, sou o Lucas Santos ✌️
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moraissantos871@gmail.com)
 
 ## 💻 Tech Stack:
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 
 ## ⚡ Database:
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
