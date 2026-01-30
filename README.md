@@ -16,6 +16,11 @@ Olá mundo, sou o Lucas Santos ✌️
 ## 💻 Tech Stack:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 
+## 🐍 Projetos em Python:
+
+[CRUD Restaurante](https://github.com/lucas-santos-morais/Sistema-CRUD-para-restaurante)<br>
+[Temperatural Atual](https://github.com/lucas-santos-morais?tab=repositories)
+
 ## ⚡ Database:
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
 
