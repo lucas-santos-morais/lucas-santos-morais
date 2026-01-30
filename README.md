@@ -17,9 +17,15 @@ Olá mundo, sou o Lucas Santos ✌️
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 
 ## 🐍 Projetos em Python:
+Projetos desenvolvidos com foco em lógica de programação, organização de código e automação:
 
-[CRUD Restaurante](https://github.com/lucas-santos-morais/Sistema-CRUD-para-restaurante)<br>
-[Temperatural Atual](https://github.com/lucas-santos-morais?tab=repositories)
+- **CRUD Restaurante**  
+  Sistema em Python para cadastro, consulta, atualização e remoção de dados, simulando um cenário real de negócio.  
+  🔗 https://github.com/lucas-santos-morais/Sistema-CRUD-para-restaurante
+
+- **Temperatura Atual**  
+  Aplicação em Python para consulta de dados climáticos em tempo real, consumindo API externa.  
+  🔗 https://github.com/lucas-santos-morais/Temperatura-Atual
 
 ## ⚡ Database:
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
