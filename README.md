@@ -1,8 +1,25 @@
-<!-- HERO SECTION -->
+<!-- HERO (Clean) -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Olá,sou+Lucas+Santos!;🐍+Fanático+por+Python" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C853&center=true&vCenter=true&width=720&lines=Olá%2C+sou+Lucas+Santos!;🐍+Fan+da+linguagem+Python;🛡️+Segurança+da+Informação+em+evolução" />
+
+  <p>
+    <a href="https://www.linkedin.com/in/lucas-santos-morais">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:moraissantos871@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/lucas-santos-morais">
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+    </a>
+  </p>
+
+  <p><b>Python • Automação • Segurança da Informação</b></p>
+
+</div>
+
+<hr/>
 
 <!-- SOBRE MIM -->
 
