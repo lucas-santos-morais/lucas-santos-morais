@@ -1,43 +1,80 @@
-# 💫 Sobre min:
-Olá mundo, sou o Lucas Santos ✌️
+<!-- HERO SECTION -->
 
-<br>🛡️Sou estudante de área de segurança da informação, a cada dia me aprimorando nessa área.<br>
-💡 Focado em aprender e evoluir nas linguagens:<br>
-<br>🐍 python
-<br><br>📚 Apaixonado por tecnologia, aprendendo um pouco a cada dia! 🚀<br>
-🎯 Formado em gestão de tecnologia da informação e atualmente cursando análise e desenvolvimento de sistemas.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Olá,sou+Lucas+Santos!;🐍+Fanático+por+Python" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-santos-morais)
+<!-- SOBRE MIM -->
 
-## 📱 Contact:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moraissantos871@gmail.com)
+<h2>👨‍💻 Sobre mim</h2>
 
-## 💻 Tech Stack:
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
+<p>
+🎓 Formado em Gestão de Tecnologia da Informação e atualmente cursando Análise e Desenvolvimento de Sistemas.<br><br>
 
-## 🐍 Projetos em Python:
-Projetos desenvolvidos com foco em lógica de programação, organização de código e automação:
+🛡️ Focado em construir carreira na área de <strong>Segurança da Informação</strong>.<br><br>
 
-- **CRUD Restaurante**  
-  Sistema em Python para cadastro, consulta, atualização e remoção de dados, simulando um cenário real de negócio.  
-  🔗 https://github.com/lucas-santos-morais/Sistema-CRUD-para-restaurante
+🐍 Entusiasta da linguagem <strong>Python</strong>, desenvolvendo projetos para fortalecer lógica, automação e boas práticas de código.<br><br>
 
-- **Temperatura Atual**  
-  Aplicação em Python para consulta de dados climáticos em tempo real, consumindo API externa.  
-  🔗 https://github.com/lucas-santos-morais/Temperatura-Atual
+🚀 Apaixonado por tecnologia e evolução contínua.
+</p>
 
-## ⚡ Database:
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+---
+<!-- TOP PROJETOS -->
 
-## 💻 OS:
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
+<h2>🔥 Projetos em Destaque</h2>
 
-## 🖍 Design:
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)  
+<p align="left">
+  <a href="https://github.com/lucas-santos-morais/Sistema-CRUD-para-restaurante">
+    <img width="278" src="https://github-readme-stats-croz.vercel.app/api/pin/?username=lucas-santos-morais&repo=Sistema-CRUD-para-restaurante&theme=tokyonight&hide_border=true" />
+  </a>
 
-## 👩‍💻 IDE:
-[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)  
+  <a href="https://github.com/lucas-santos-morais/Temperatura-Atual">
+    <img width="278" src="https://github-readme-stats-croz.vercel.app/api/pin/?username=lucas-santos-morais&repo=Temperatura-Atual&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+<!-- STACK -->
+<details> 
+  <summary><h2>⚙️ Stack Tecnológica</h2></summary>
+
+<h3>👨‍💻 Linguagens</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
+</p>
+
+<h3>🚧 Frameworks & Bibliotecas</h3>
+
+<p><strong>Em construção...</strong> 🚀</p>
+
+<h3>🗄️ Banco de Dados</h3>
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white">
+</p>
+
+<h3>💻 Sistemas Operacionais</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
+</p>
+
+<h3>🛠️ Ferramentas</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Opera-FF1B2D?logo=opera&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-0078D4?logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+</p>
+
+</details> 
+
+---
 
 <details> 
   <summary><h2>📊 Stats</h2></summary>
@@ -47,14 +84,6 @@ Projetos desenvolvidos com foco em lógica de programação, organização de c�
 <p align="center">
   <img height="165" src="https://github-readme-stats-croz.vercel.app/api?username=lucas-santos-morais&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats-croz.vercel.app/api/top-langs/?username=lucas-santos-morais&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
- <h3>🔥 Streak Stats</h3>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=lucas-santos-morais&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-  </a>
 </p>
 
 ---
