@@ -51,7 +51,11 @@ Projetos desenvolvidos com foco em lógica de programação, organização de c�
 
  <h3>🔥 Streak Stats</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lucas-santos-morais&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=lucas-santos-morais&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  </a>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lucas-santos-morais&icon=0&color=9)](https://visitcount.itsvg.in)
