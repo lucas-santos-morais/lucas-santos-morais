@@ -39,11 +39,19 @@ Projetos desenvolvidos com foco em lógica de programação, organização de c�
 ## 👩‍💻 IDE:
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)  
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lucas-santos-morais&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com?user=lucas-santos-morais&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-santos-morais&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=lucas-santos-morais&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=86400)
+<details> 
+  <summary><h2>📊 Stats</h2></summary>
+
+ <h3>💻 GitHub Profile Stats</h3>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-croz.vercel.app/api?username=lucas-santos-morais&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-croz.vercel.app/api/top-langs/?username=lucas-santos-morais&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+ <h3>🔥 Streak Stats</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lucas-santos-morais&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lucas-santos-morais&icon=0&color=9)](https://visitcount.itsvg.in)
