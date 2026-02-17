@@ -50,7 +50,7 @@
   </a>
 
   <a href="https://github.com/lucas-santos-morais/Projetos-em-python">
-    <img width="278" src="https://github-readme-stats-croz.vercel.app/api/pin/?username=lucas-santos-morais&repo=Projetos-em-python&theme=tokyonight&hide_border=true" />
+    <img width="325" src="https://github-readme-stats-croz.vercel.app/api/pin/?username=lucas-santos-morais&repo=Projetos-em-python&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
