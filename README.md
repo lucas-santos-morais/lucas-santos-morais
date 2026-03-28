@@ -45,10 +45,6 @@
     <img width="278" src="https://github-readme-stats-croz.vercel.app/api/pin/?username=lucas-santos-morais&repo=Sistema-CRUD-para-restaurante&theme=tokyonight&hide_border=true" />
   </a>
 
-  <a href="https://github.com/lucas-santos-morais/Temperatura-Atual">
-    <img width="278" src="https://github-readme-stats-croz.vercel.app/api/pin/?username=lucas-santos-morais&repo=Temperatura-Atual&theme=tokyonight&hide_border=true" />
-  </a>
-
   <a href="https://github.com/lucas-santos-morais/Projetos-em-python">
     <img width="325" src="https://github-readme-stats-croz.vercel.app/api/pin/?username=lucas-santos-morais&repo=Projetos-em-python&theme=tokyonight&hide_border=true" />
   </a>
