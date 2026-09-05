@@ -36,26 +36,9 @@
 </p>
 
 ---
-<!-- TOP PROJETOS -->
 
-<h2>🔥 Projetos em Destaque</h2>
-
-<p align="left">
-  <a href="https://github.com/lucas-santos-morais/Sistema-CRUD-para-restaurante">
-    <img width="278" src="https://github-readme-stats-croz.vercel.app/api/pin/?username=lucas-santos-morais&repo=Sistema-CRUD-para-restaurante&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/lucas-santos-morais/Projetos-em-python">
-    <img width="278" src="https://github-readme-stats-croz.vercel.app/api/pin/?username=lucas-santos-morais&repo=Projetos-em-python&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-
-
----
 <!-- STACK -->
-<details> 
-  <summary><h2>⚙️ Stack Tecnológica</h2></summary>
+<h2>⚙️ Tecnologias</h2>
 
 <h3>👨‍💻 Linguagens</h3>
 
@@ -91,20 +74,16 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
 </p>
 
-</details> 
 
 ---
 
-<details> 
-  <summary><h2>📊 Stats</h2></summary>
 
- <h3>💻 GitHub Profile Stats</h3>
+ <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-croz.vercel.app/api?username=lucas-santos-morais&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-croz.vercel.app/api/top-langs/?username=lucas-santos-morais&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-santos-morais&theme=tokyonight&hide_border=true"
+  />
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=lucas-santos-morais&icon=0&color=9)](https://visitcount.itsvg.in)
 
