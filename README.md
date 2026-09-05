@@ -26,7 +26,7 @@
 <h2>👨‍💻 Sobre mim</h2>
 
 <p>
-🎓 Formado em Gestão de Tecnologia da Informação e atualmente cursando Análise e Desenvolvimento de Sistemas.<br><br>
+🎓 Formado em Gestão de Tecnologia da Informação e Análise e Desenvolvimento de Sistemas.<br><br>
 
 🛡️ Focado em construir carreira na área de <strong>Segurança da Informação</strong>.<br><br>
 
